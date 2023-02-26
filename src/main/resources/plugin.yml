@@ -1,0 +1,6 @@
+name: ItemBingo
+version: '${project.version}'
+main: de.dafooox.itembingo.ItemBingo
+api-version: 1.19
+description: ItemBingo Plugin for the ZeroEXP Netzwork
+website: https://dafooox.de/projects/ItemBingo
